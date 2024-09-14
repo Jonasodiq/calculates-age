@@ -1,3 +1,8 @@
+# Age Calculator
+
+This Java program calculates the total number of days, hours, minutes, and seconds a user has lived based on their birth date.
+It provides feedback on the total time lived in a user-friendly format and handles invalid inputs and future dates.
+
 ## Features
 
 - **Date Input:** Prompts the user to enter their birth year, month, and day.
